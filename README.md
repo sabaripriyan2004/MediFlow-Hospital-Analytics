@@ -152,22 +152,6 @@ The resource analysis examines bed occupancy observations, doctor workload, and 
 
 These are descriptive indicators, not proof of staffing inadequacy or true theatre utilization.
 
-## 7. Year-wise Performance Analysis (2024–2025)
-
-This analysis compares hospital operational performance across two years.
-
-![Year-wise Performance Analysis](assets/yearly_performance.jpg)
-
-**Analysis dimensions**
-- Encounter volume by year.
-- Unique patient distribution.
-- Monthly operational trends.
-- Service turnaround time.
-- Waiting-time target breaches.
-- Year-over-year performance.
-
----
-
 # SQL Business Analysis
 
 SQL was used to answer nine operational business questions:
