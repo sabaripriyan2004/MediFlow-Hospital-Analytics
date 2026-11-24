@@ -126,32 +126,6 @@ The Pareto analysis identifies which services contribute most to excess turnarou
 
 **Key finding:** Pharmacy and radiology together account for approximately 90.2% of combined excess delay hours.
 
-These services should be prioritized for further operational investigation.
-
-## 6. Resource Utilization Analysis
-
-The resource analysis examines bed occupancy observations, doctor workload, and operating-theatre activity.
-
-**Bed occupancy**
-- Average observed occupancy: approximately 71.7%.
-- 444 ward-date observations recorded occupancy of at least 85%.
-- 138 observations recorded occupancy of at least 95%.
-- 63 observations recorded 100% occupancy.
-
-**Doctor workload**
-- Active doctors: 120.
-- Total encounters: 10,000.
-- Average encounters per doctor: 83.33.
-- Maximum encounters per doctor: 150.
-
-**Operating theatre**
-- Operating theatres: 8.
-- Procedures: 1,200.
-- Average procedure duration: 136.51 minutes.
-- Procedures starting later than scheduled: 85.75%.
-
-These are descriptive indicators, not proof of staffing inadequacy or true theatre utilization.
-
 # SQL Business Analysis
 
 SQL was used to answer nine operational business questions:
