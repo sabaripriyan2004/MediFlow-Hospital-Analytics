@@ -137,7 +137,7 @@ The following static dashboard previews bring together key operational KPIs, dep
 
 ## Tools & Technologies
 
-**Python | Pandas | NumPy | Matplotlib | Seaborn | MySQL | Power BI | Excel | GitHub**
+**Python | Pandas | NumPy | Matplotlib | Seaborn | MySQL | Power BI | GitHub**
 
 ---
 
